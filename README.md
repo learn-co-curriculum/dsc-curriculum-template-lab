@@ -1,40 +1,43 @@
 
-***This is the template for creating a LAB for Data Science. Please make sure to change the title to the appropriate topic and leave the `- Lab` to indicate that this is a lab. Next add an introduction, objectives (which should be taken from the lab's outlined SWBATS), the lab's content, and summary.***
+# Lesson Title - Lab
 
-> Note: All labs should have **Instructions:** that give a stepped flow to the lab's content. 
-* Instructions should be be specific. Students shouldn't have to make assumptions about what to do based on the instructions, they should immediately know.  
-* Instructions should be written in order of how to approach the lab. If you need to build a class before you can define any methods, the instructions should lead the student to build the class first.
-
-# LESSON TITLE - Lab
+> Note: 
+- Words in all titles are capitalized, **except** articles (a, an, the), conjunctions (and, but, for,...), short prepositions (at, by, from,...)
+- Titles at the very top of the notebook have 1 "#"
+- Lesson Title in Jupyter Notebook and Title on airtable should **match exactly**
 
 ## Introduction
 Introduction goes here
 
+> Note: 
+  - Introduction, Objectives, Topic Titles, and Summary all have '##'
+  - You can further subdivide Topic Titles in subsections: ###, #### etc.
+
 ## Objectives
-You will be able to:
-* SWBATS 
-* GO 
-* HERE
+You will be able to: 
+* SWBAT 1
+* SWBAT 2
+* SWBAT 3
 
-## Objective 1 Title
+## Topic Title 1
 
 
 ```python
-# Objective 1 content
+## content for topic title 1
 ```
 
-## Objective 2 Title
+## Topic Title 2
 
 
 ```python
-## Objective 2 content
+## content for topic title 2
 ```
 
-## Objective 3 Title
+## Topic Title 3
 
 
 ```python
-## Objective 3 content
+# content for topic title 3
 ```
 
 ## Summary
