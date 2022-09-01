@@ -1,43 +1,43 @@
-
 # Lesson Title - Lab
 
-> Note: 
-- Words in all titles are capitalized, **except** articles (a, an, the), conjunctions (and, but, for,...), short prepositions (at, by, from,...)
-- Titles at the very top of the notebook have 1 "#"
-- Lesson title in Jupyter Notebook and title on airtable should **match exactly**
-
 ## Introduction
+
 Introduction goes here
 
-> Note: 
-  - Introduction, Objectives, Topic Titles, and Summary all have '##'
-  - You can further subdivide Topic Titles in subsections: ###, #### etc.
-
 ## Objectives
+
 You will be able to: 
+
 * SWBAT 1
 * SWBAT 2
 * SWBAT 3
 
+
 ## Topic Title 1
+
+Topic title 1 instructions
 
 
 ```python
-## content for topic title 1
+## solution code for topic title 1
 ```
 
 ## Topic Title 2
 
+Topic title 2 instructions
+
 
 ```python
-## content for topic title 2
+## solution code for topic title 2
 ```
 
 ## Topic Title 3
 
+Topic title 3 instructions
+
 
 ```python
-## content for topic title 3
+## solution code for topic title 3
 ```
 
 ## Summary
